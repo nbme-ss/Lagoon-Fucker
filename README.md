@@ -34,4 +34,4 @@ This project is inspired by Doomsday Fucker and follows a similar concept of det
 
 ## Usage
 
-Run the Detector by downloading it from the realses and run it
+Run the Detector by downloading it from the releases and run it
