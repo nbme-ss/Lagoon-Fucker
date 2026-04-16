@@ -34,8 +34,4 @@ This project is inspired by Doomsday Fucker and follows a similar concept of det
 
 ## Usage
 
-Run the script using:
-
-```powershell
-powershell Set-ExecutionPolicy -Scope Process Bypass; Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/HazMax12/LagoonFucker/refs/heads/main/main.ps1)
-```
+Run the Detector by downloading it from the realses and run it
